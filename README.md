@@ -31,7 +31,6 @@
   Exp      : 5+ anos em Pentest Web & Infraestrutura
   Focus    : Active Directory | Post-Exploitation | Kerberos | DCSync
   Stack    : Metasploit · Burp Suite · Nmap · SQLMap · Golang
-  Contact  : deepauditoficial@gmail.com | (16) 99622-8445
   Location : Remoto 🇧🇷 | Disponível para projetos
   Next     : [ ████████░░ ] Preparando OSCP...
 ```
