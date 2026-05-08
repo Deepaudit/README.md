@@ -13,7 +13,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pablocyber&color=ff3333&style=flat-square&label=VISITAS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pablocyber-ff3333?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/pablocyber)
-[![Email](https://img.shields.io/badge/Email-deepauditoficial-ff3333?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:deepauditoficial@gmail.com)
 ![Focus](https://img.shields.io/badge/Foco-Red%20Team%20%7C%20AD%20Exploitation-ff3333?style=flat-square&labelColor=0d1117)
 
 </div>
