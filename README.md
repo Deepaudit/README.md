@@ -29,7 +29,7 @@
   Role     : Hacker Ético | Red Team Operator | Analista de Cybersegurança
   Exp      : 5+ anos em Pentest Web & Infraestrutura
   Focus    : Active Directory | Post-Exploitation | Kerberos | DCSync
-  Stack    : Metasploit · Burp Suite · Nmap · SQLMap · Golang
+  Stack    : Metasploit · Burp Suite · Nmap · SQLMap
   Location : Remoto 🇧🇷 | Disponível para projetos
   Next     : [ ████████░░ ] Preparando OSCP...
 ```
