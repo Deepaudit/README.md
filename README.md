@@ -17,6 +17,19 @@
   <img src="https://img.shields.io/badge/FOCO-PENTEST%20WEB-00ff41?style=for-the-badge&logo=owasp&logoColor=black&labelColor=0d0d0d"/>
 </p>
 
+<!-- REDES SOCIAIS RÁPIDO -->
+<p>
+  <a href="https://www.instagram.com/pablo_cyber_oficial/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pablo__cyber__oficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pablocyber/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-pablocyber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
+  </a>
+  <a href="https://app.hackthebox.com/profile/pablocyber" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-pablocyber-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d0d0d"/>
+  </a>
+</p>
+
 </div>
 
 ---
@@ -148,6 +161,59 @@
 
 ---
 
+<!-- PRODUTOS & MENTORIA -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30px"/> Mentorias, Eventos & Produtos
+
+<div align="center">
+
+```bash
+┌──(pablo㉿cyber)-[~/store]
+└─$ ls -la produtos/
+
+[+] Mentoria & Evento ........... DISPONÍVEL  ✅
+[+] Deep Audit Elite Program .... DISPONÍVEL  ✅
+```
+
+<br/>
+
+<!-- CARD MENTORIA -->
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎯 Mentoria & Evento Pablo Cyber
+
+**Aprenda com quem está na prática.**
+Sessões ao vivo, labs reais, conteúdo exclusivo sobre Pentest Web e Hacking de Redes com quem vive isso todos os dias.
+
+> 🔥 Vagas limitadas — garante a sua antes que feche!
+
+<a href="https://pay.kirvano.com/f4214fe9-ce16-4521-b9ab-8ce5ed84a636" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GARANTIR%20INGRESSO-MENTORIA%20%26%20EVENTO-00ff41?style=for-the-badge&labelColor=0d0d0d&color=00ff41"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 💥 Deep Audit: Elite Security Research
+
+**Mega Pack Hacking Profissional.**
+O programa mais completo para quem quer dominar auditoria de segurança de ponta a ponta: metodologias reais, técnicas avançadas, casos práticos.
+
+> 🛡️ Para quem leva segurança a sério.
+
+<a href="https://pay.kirvano.com/f5a4c02b-c26c-42f7-bf82-e54b15abe990" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%92%A5%20ACESSAR%20PROGRAMA-DEEP%20AUDIT%20ELITE-ff6600?style=for-the-badge&labelColor=0d0d0d&color=ff6600"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <!-- CONTATO -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="30px"/> Contato & Networking
 
@@ -163,17 +229,23 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pablocyber/">
+<a href="https://www.instagram.com/pablo_cyber_oficial/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-pablo__cyber__oficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://www.linkedin.com/in/pablocyber/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-pablocyber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
 </a>
-<a href="mailto:seuemail@email.com">
-  <img src="https://img.shields.io/badge/Email-Contato-00ff41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d0d0d"/>
-</a>
-<a href="https://pablocyber.github.io">
-  <img src="https://img.shields.io/badge/Portfólio-Hacking-ff6600?style=for-the-badge&logo=githubpages&logoColor=black&labelColor=0d0d0d"/>
-</a>
-<a href="https://app.hackthebox.com/profile/pablocyber">
+<a href="https://app.hackthebox.com/profile/pablocyber" target="_blank">
   <img src="https://img.shields.io/badge/HackTheBox-pablocyber-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d0d0d"/>
+</a>
+
+<br/><br/>
+
+<a href="https://pay.kirvano.com/f4214fe9-ce16-4521-b9ab-8ce5ed84a636" target="_blank">
+  <img src="https://img.shields.io/badge/🎯%20Mentoria%20%26%20Evento-Inscreva--se%20Agora-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
+</a>
+<a href="https://pay.kirvano.com/f5a4c02b-c26c-42f7-bf82-e54b15abe990" target="_blank">
+  <img src="https://img.shields.io/badge/💥%20Deep%20Audit%20Elite-Acessar%20Programa-ff6600?style=for-the-badge&labelColor=0d0d0d"/>
 </a>
 
 </div>
