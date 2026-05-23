@@ -1,270 +1,196 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0000,100:ff0000&height=220&section=header&text=Pablo%20Cyber&fontSize=70&fontColor=ff3333&animation=fadeIn&fontAlignY=38&desc=Hacker%20%C3%89tico%20%7C%20Red%20Team%20%7C%20Analista%20de%20Cyberseguran%C3%A7a&descAlignY=58&descColor=ff6666" />
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff41&height=200&section=header&text=PABLO%20CYBER&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=55&desc=Pentester%20Web%20%7C%20Red%20Team%20%7C%20Network%20Hacker&descAlignY=80&descSize=18&descColor=39ff14" width="100%"/>
+
+<!-- TYPING EFFECT -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%5B%2B%5D+Pentester+Web+%26+Redes+%7C+Red+Team;%5B%2B%5D+Encontrando+falhas+antes+dos+atacantes;%5B%2B%5D+AWS+%E2%80%A2+AD+%E2%80%A2+ADCS+%E2%80%A2+Wi-Fi+Hacking;%5B%2B%5D+Bug+Bounty+%7C+OWASP+Top+10+%7C+OSINT" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF3333&center=true&vCenter=true&width=650&lines=Red+Team+Operator+%7C+5%2B+anos+de+experi%C3%AAncia;AD+%26+Post-Exploitation+%7C+Kerberos+%2F+DCSync;Pentest+Web+%26+Infra+%7C+Bug+Bounty+Hunter;OSCP+em+prepara%C3%A7%C3%A3o+%7C+EDR+Bypass+Research;Criando+ferramentas+ofensivas+em+Golang" alt="Typing SVG" />
+<!-- SHIELDS / BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/STATUS-HUNTING%20BUGS-00ff41?style=for-the-badge&logo=target&logoColor=black&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/ROLE-RED%20TEAM-ff0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/FOCO-PENTEST%20WEB-00ff41?style=for-the-badge&logo=owasp&logoColor=black&labelColor=0d0d0d"/>
+</p>
+
+</div>
+
+---
+
+<!-- SOBRE MIM -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Terminal.png" width="30px"/> `whoami`
+
+```bash
+┌──(pablo㉿cyber)-[~]
+└─$ cat about_me.txt
+
+[*] Nome:        Pablo Cyber
+[*] Role:        Pentester Web | Red Team Operator
+[*] Foco:        Web Hacking | Network Hacking | Bug Bounty
+[*] Missão:      Encontrar falhas antes dos atacantes
+[*] Filosofia:   Hacking não é sobre quebrar leis — é sobre PROTEGER PESSOAS.
+[*] Meta:        Ser referência em Cibersegurança e gerar impacto positivo.
+[*] Status:      [ ON ] — Sempre em operação 🟢
+```
+
+---
+
+<!-- ARSENAL / SKILLS -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px"/> Arsenal & Especialidades
+
+<div align="center">
+
+### 🕸️ Web & OWASP Top 10
+
+<p>
+  <img src="https://img.shields.io/badge/SQLi-Expert-00ff41?style=flat-square&logo=postgresql&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/XSS-Expert-00ff41?style=flat-square&logo=javascript&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/SSRF-Advanced-00cc33?style=flat-square&logo=curl&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/XXE-Advanced-00cc33?style=flat-square&logo=xml&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/IDOR-Expert-00ff41?style=flat-square&logo=lock&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/Broken%20Auth-Advanced-00cc33?style=flat-square&labelColor=111"/>
+  <img src="https://img.shields.io/badge/APIs-Expert-00ff41?style=flat-square&logo=fastapi&logoColor=black&labelColor=111"/>
+</p>
+
+### 🌐 Redes & Wi-Fi Hacking
+
+<p>
+  <img src="https://img.shields.io/badge/TCP/IP-Expert-00ff41?style=flat-square&logo=cisco&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/WPA2/WPA3-Advanced-00cc33?style=flat-square&logo=wifi&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/802.1X-Advanced-00cc33?style=flat-square&labelColor=111"/>
+  <img src="https://img.shields.io/badge/Pentest%20Redes-Expert-00ff41?style=flat-square&logo=wireshark&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/Enterprise%20Wi--Fi-Advanced-00cc33?style=flat-square&labelColor=111"/>
+</p>
+
+### ☁️ Cloud & Infra
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Security-ff9900?style=flat-square&logo=amazonaws&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/Azure-IAM-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=111"/>
+  <img src="https://img.shields.io/badge/Active%20Directory-Expert-00ff41?style=flat-square&logo=windows&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/ADCS-Advanced-00cc33?style=flat-square&labelColor=111"/>
+  <img src="https://img.shields.io/badge/Kerberos-Advanced-00cc33?style=flat-square&labelColor=111"/>
+  <img src="https://img.shields.io/badge/BloodHound-Expert-00ff41?style=flat-square&labelColor=111"/>
+</p>
+
+### 🛠️ Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-Pro-ff6600?style=flat-square&logo=burpsuite&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/Nuclei-Advanced-00ff41?style=flat-square&labelColor=111"/>
+  <img src="https://img.shields.io/badge/Nmap-Expert-00ff41?style=flat-square&logo=nmap&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/Metasploit-Advanced-00cc33?style=flat-square&labelColor=111"/>
+  <img src="https://img.shields.io/badge/Impacket-Advanced-00cc33?style=flat-square&labelColor=111"/>
+  <img src="https://img.shields.io/badge/Wireshark-Expert-00ff41?style=flat-square&logo=wireshark&logoColor=black&labelColor=111"/>
+  <img src="https://img.shields.io/badge/OSINT-Expert-00ff41?style=flat-square&labelColor=111"/>
+</p>
+
+</div>
+
+---
+
+<!-- ROTINA DIÁRIA -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30px"/> Rotina de Evolução Diária
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              ROTINA HACKER PLENO — 6H DE FOCO/DIA               ║
+╠══════════════╦═══════════╦══════════════════════════════════════╣
+║  BLOCO       ║  TEMPO    ║  FOCO                                ║
+╠══════════════╬═══════════╬══════════════════════════════════════╣
+║  01 Infra&AD ║  1H       ║  Active Directory, Kerberos, Lateral ║
+║  02 Redes    ║  1H       ║  TCP/IP, Wi-Fi, Pentest Redes        ║
+║  03 Cloud    ║  1H       ║  AWS, Azure, IAM, Misconfigs         ║
+║  05 Web/API  ║  1H30     ║  OWASP, Burp Suite, Nuclei, OSINT    ║
+║  06 Soft Sk. ║  30MIN    ║  Inglês Técnico, Reports, LinkedIn   ║
+╠══════════════╩═══════════╩══════════════════════════════════════╣
+║  📊  6H/DIA  →  42H/SEM  →  12 SEMANAS  →  504H DE EVOLUÇÃO     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<!-- STATS -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px"/> Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablocyber&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ccffcc&ring_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocyber&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ccffcc"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pablocyber&theme=matrix&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=ccffcc&dates=ccffcc" width="60%"/>
+
+</div>
+
+---
+
+<!-- TROPHIES -->
+## 🏆 Troféus
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pablocyber&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+</div>
+
+---
+
+<!-- ATIVIDADE / SNAKE -->
+## 🐍 Contribuições
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
+<!-- CONTATO -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="30px"/> Contato & Networking
+
+<div align="center">
+
+```bash
+┌──(pablo㉿cyber)-[~]
+└─$ ./contact.sh
+
+[*] Aberto para: Parcerias, Bug Bounty, Projetos Red Team, Networking
+[*] Envie uma DM — responderei em breve.
+```
+
+<br/>
+
+<a href="https://www.linkedin.com/in/pablocyber/">
+  <img src="https://img.shields.io/badge/LinkedIn-pablocyber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
 </a>
+<a href="mailto:seuemail@email.com">
+  <img src="https://img.shields.io/badge/Email-Contato-00ff41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d0d0d"/>
+</a>
+<a href="https://pablocyber.github.io">
+  <img src="https://img.shields.io/badge/Portfólio-Hacking-ff6600?style=for-the-badge&logo=githubpages&logoColor=black&labelColor=0d0d0d"/>
+</a>
+<a href="https://app.hackthebox.com/profile/pablocyber">
+  <img src="https://img.shields.io/badge/HackTheBox-pablocyber-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d0d0d"/>
+</a>
+
+</div>
+
+---
+
+<!-- FOOTER ANIMADO -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=100&section=footer&text=ESTUDE.%20PRATIQUE.%20COMPARTILHE.%20ENSINE.&fontSize=14&fontColor=00ff41&animation=twinkling" width="100%"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pablocyber&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d0d0d"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pablocyber&color=ff3333&style=flat-square&label=VISITAS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pablocyber-ff3333?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/pablocyber)
-![Focus](https://img.shields.io/badge/Foco-Red%20Team%20%7C%20AD%20Exploitation-ff3333?style=flat-square&labelColor=0d1117)
-
-</div>
-
----
-
-## `$ whoami`
-
-```bash
-┌──[pablo@redteam]─[~]
-└─$ cat operator.txt
-
-  Handle   : Pablo Cyber
-  Role     : Hacker Ético | Red Team Operator | Analista de Cybersegurança
-  Exp      : 5+ anos em Pentest Web & Infraestrutura
-  Focus    : Active Directory | Post-Exploitation | Kerberos | DCSync
-  Stack    : Metasploit · Burp Suite · Nmap · SQLMap
-  Location : Remoto 🇧🇷 | Disponível para projetos
-  Next     : [ ████████░░ ] Preparando OSCP...
-```
-
-> *"Transformando conhecimento técnico em segurança real — protegendo dados críticos e reputação corporativa."*
-
----
-
-## `$ cat specialties.md`
-
-<div align="center">
-
-### 💀 Red Team & Post-Exploitation
-
-```
-Active Directory Attacks
-├── Kerberoasting & AS-REP Roasting
-├── Pass-the-Hash / Pass-the-Ticket
-├── DCSync Attack (Mimikatz / Impacket)
-├── Golden & Silver Ticket Forgery
-├── Lateral Movement & Pivoting
-└── Persistence Mechanisms (Backdoors, Scheduled Tasks)
-```
-
-### 🕸️ Pentest Web & Infra
-
-```
-Web Application
-├── SQL Injection (Manual + SQLMap)
-├── XSS, SSRF, IDOR, XXE
-├── Authentication Bypass & JWT Attacks
-├── API Security Testing
-└── Business Logic Flaws
-
-Infrastructure
-├── Network Scanning & Enumeration (Nmap / Masscan)
-├── Service Exploitation (Metasploit)
-├── VPN & Firewall Bypass
-└── Linux & Windows Privilege Escalation
-```
-
-</div>
-
----
-
-## `$ ls -la arsenal/`
-
-<div align="center">
-
-| Categoria | Ferramenta | Nível |
-|-----------|-----------|-------|
-| 🔴 **C2 & Exploit** | Metasploit Framework | ██████████ 95% |
-| 🌐 **Web Pentest** | Burp Suite Pro | █████████░ 92% |
-| 🔍 **Recon & Scan** | Nmap / Masscan | ██████████ 98% |
-| 💉 **Injection** | SQLMap | █████████░ 90% |
-| 🪟 **AD Attacks** | Mimikatz / Impacket | █████████░ 92% |
-| 🏃 **Lateral Move** | CrackMapExec / Evil-WinRM | ████████░░ 85% |
-| 🔓 **Password** | Hashcat / John the Ripper | ████████░░ 85% |
-| 🦫 **Dev Tools** | Golang / Python / Bash | ████████░░ 80% |
-| 🧠 **OSINT** | theHarvester / Recon-ng | █████████░ 90% |
-| 🤖 **AI-Assisted** | IA para adaptar exploits | ████████░░ 85% |
-
-</div>
-
----
-
-## `$ cat attack_lifecycle.sh`
-
-```
-[PHASE 1] RECONNAISSANCE
-    │
-    ├── OSINT (LinkedIn, Shodan, Censys, crt.sh)
-    ├── Subdomain Enumeration (Amass, Subfinder)
-    ├── Port & Service Scanning (Nmap, Masscan)
-    └── Technology Fingerprinting (HTTPX, Wappalyzer)
-
-[PHASE 2] INITIAL ACCESS
-    │
-    ├── Web Exploitation (SQLi, XSS, SSRF, RCE)
-    ├── Service Exploitation (Metasploit modules)
-    ├── Phishing & Social Engineering
-    └── Credential Stuffing / Password Spray
-
-[PHASE 3] POST-EXPLOITATION
-    │
-    ├── Privilege Escalation (Linux & Windows)
-    ├── Active Directory Enumeration (BloodHound)
-    ├── Credential Dumping (Mimikatz / DCSync)
-    └── Persistence & C2 Setup
-
-[PHASE 4] LATERAL MOVEMENT
-    │
-    ├── Pass-the-Hash / Pass-the-Ticket
-    ├── Kerberoasting & AS-REP Roasting
-    ├── Golden / Silver Ticket
-    └── Remote Exec (CrackMapExec, Evil-WinRM)
-
-[PHASE 5] IMPACT & REPORTING
-    │
-    ├── Data Exfiltration Simulation
-    ├── Evidence Documentation
-    ├── PoC + CVSS Scoring
-    └── Executive & Technical Report
-```
-
----
-
-## `$ cat certifications.txt`
-
-<div align="center">
-
-| Certificação | Instituição | Status |
-|---|---|---|
-| 🎯 **OSCP** | Offensive Security | 🔄 Em preparação |
-| 🔴 **Solyd One Offensive** | Solyd | ✅ Concluído |
-| 💀 **Metasploit - Hackers Hive** | Hackers Hive | ✅ Concluído |
-| 🌐 **Google Cybersecurity** | Google | ✅ Concluído |
-| 🔬 **Coursera Cybersecurity** | Coursera | ✅ Concluído |
-| 🧬 **AFD - Academia Forense Digital** | AFD | ✅ Concluído |
-| 🐍 **Python Básico** | Udemy | ✅ Concluído |
-| 🗄️ **SQL Linguagem Estruturada** | — | ✅ Concluído |
-| ⚙️ **Fundamentos de Sistemas** | UNIFF LLC | ✅ Concluído |
-
-</div>
-
----
-
-## `$ cat diferencial.md`
-
-```bash
-┌──[pablo@redteam]─[~/diferencial]
-└─$ cat advantage.txt
-
-  [+] AI-Powered Exploitation
-      └── Uso de IA para adaptar exploits e automatizar
-          scripts ofensivos em Go e C++
-
-  [+] Active Directory Specialist
-      └── Ataques complexos em AD: Kerberos, DCSync,
-          persistência e movimentação lateral
-
-  [+] EDR Bypass Research
-      └── Pesquisa ativa em técnicas de evasão de
-          antivírus e EDR modernos
-
-  [+] Custom Tooling in Golang
-      └── Desenvolvimento de ferramentas de segurança
-          personalizadas e otimizadas
-
-  [+] Linux & Windows Domain Expertise
-      └── Domínio avançado em ambientes enterprise
-          críticos e de larga escala
-```
-
----
-
-## `$ cat current_research.md`
-
-<div align="center">
-
-```
-🔬 PESQUISA ATIVA
-├── 🦫 Ferramentas ofensivas personalizadas em Golang
-├── 🛡️ Bypass de EDR modernos (Defender, CrowdStrike)
-├── 🔀 Novas técnicas de movimentação lateral em AD
-└── 🤖 Integração de IA em operações Red Team
-```
-
-</div>
-
----
-
-## `$ cat stack.cfg`
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Golang-0d1117?style=for-the-badge&logo=go&logoColor=ff3333)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=ff3333)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ff3333)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=ff3333)
-![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=ff3333)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ff3333)
-![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=ff3333)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=ff3333)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=ff3333)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ff3333)
-
-</div>
-
----
-
-## `$ cat github_stats.json`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablocyber&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&border_color=ff3333"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocyber&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff3333&text_color=c9d1d9&border_color=ff3333"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pablocyber&theme=dark&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&background=0d1117&border=ff3333&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ff3333&sideNums=ff3333"/>
-
-</div>
-
----
-
-## `$ cat contact.txt`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pablocyber-ff3333?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/pablocyber)
-[![Gmail](https://img.shields.io/badge/Email-deepauditoficial@gmail.com-ff3333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:deepauditoficial@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(16)%2099622--8445-ff3333?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/5516996228445)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Bug%20Bounty-ff3333?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0d1117)](https://hackerone.com)
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-┌──[pablo@redteam]─[~]
-└─$ echo "Disponível para projetos remotos, bug bounty e Red Team ops."
-
-  Disponível para projetos remotos, bug bounty e Red Team ops.
-
-  ⚠️  Todas as atividades realizadas de forma ética e autorizada.
-
-[Process completed — exit code 0]
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:1a0000,100:0d1117&height=100&section=footer"/>
+> **"Hacking não é sobre quebrar leis — é sobre proteger pessoas."** 🛡️
 
 </div>
