@@ -9,7 +9,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pablocyber-red?style=for-the-badge&logo=linkedin&logoColor=white&color=B80000)](https://linkedin.com/in/pablocyber)
-[![Email](https://img.shields.io/badge/Email-deepauditoficial-black?style=for-the-badge&logo=gmail&logoColor=white&color=B80000)](mailto:deepauditoficial@gmail.com)
+[![Email](https://img.shields.io/badge/Email-deepauditoficial-black?style=for-the-badge&logo=gmail&logoColor=white&color=B80000)](mailto:pablocybersec@pablodigital.shop)
 [![Location](https://img.shields.io/badge/Guariba-SP-black?style=for-the-badge&logo=googlemaps&logoColor=white&color=B80000)](#)
 
 </div>
