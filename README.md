@@ -127,6 +127,6 @@ Hardware/IoT ███████░░░░░░░░░░░░░░░�
 
 **PABLO CYBERSEC** — *Segurança ofensiva é o meu código.*
 
-📍 Guariba – SP &nbsp;|&nbsp; 📞 +54 9 11 2573-3969 &nbsp;|&nbsp; ✉️ pablocybersec@pablodigital.shop
+📍 Ribeirao Preto – SP &nbsp;|&nbsp; 📞 +54 9 11 2573-3969 &nbsp;|&nbsp; ✉️ pablocybersec@pablodigital.shop
 
 </div>
