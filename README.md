@@ -54,7 +54,7 @@ Formação profissional do zero ao avançado, com acompanhamento em cada etapa, 
 ### 💻 NEXUS AI Terminal Lab
 Laboratório de terminal em sandbox (Kali Linux simulado) para treinar linha de comando, escalada de privilégios e CTF direto no navegador. Nenhum comando real é executado no servidor.
 
-[![Acessar o lab](https://img.shields.io/badge/ACESSAR%20O%20LAB-%E2%86%92-0D0D0D?style=for-the-badge)](https://ai.pablocybersec.com.br/terminal/)
+[![Acessar o lab](https://img.shields.io/badge/ACESSAR%20O%20LAB-%E2%86%92-0D0D0D?style=for-the-badge)](https://ai.pablocybersec.com.br/nexus/terminal/)
 
 </td>
 </tr>
